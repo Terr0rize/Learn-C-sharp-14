@@ -1,0 +1,13 @@
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.exe
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.deps.json
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.runtimeconfig.json
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.runtimeconfig.dev.json
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.dll
+D:\Program for Visual Studio\C sharp learning\C sharp learning\bin\Debug\netcoreapp3.1\C sharp learning.pdb
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.csprojAssemblyReference.cache
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.AssemblyInfoInputs.cache
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.AssemblyInfo.cs
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.csproj.CoreCompileInputs.cache
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.dll
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.pdb
+D:\Program for Visual Studio\C sharp learning\C sharp learning\obj\Debug\netcoreapp3.1\C sharp learning.genruntimeconfig.cache
